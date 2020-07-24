@@ -15,10 +15,7 @@ window.onload = function() {
 
 
 var input = prompt('Message', 'DefStr');
-
 console.log(input);
 
-
 input = confirm('yes or no');
-
 console.log(input);
